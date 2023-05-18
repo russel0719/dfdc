@@ -1,5 +1,7 @@
 ## DeepFake Detection (DFDC) Solution by @selimsef
 
+add train code for using weights and bias
+
 ## Challenge details:
 
 [Kaggle Challenge Page](https://www.kaggle.com/c/deepfake-detection-challenge)
